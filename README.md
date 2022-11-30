@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @drakefolks
-- 👀 I’m interested in an INL internship, cybersecurity, ethical hacking, and data science!
+- 👀 I’m interested in a remote internship for cybersecurity, ethical hacking, data science, or computer science!
 - 🌱 I’m currently working on a bachelors in computer science.
 
 
